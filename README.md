@@ -39,8 +39,8 @@
 
 <div align="center">
 
-![strnclk's Stats](https://github-readme-stats.vercel.app/api?username=strnclk&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-![strnclk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=strnclk&theme=onedark&hide_border=true)
+[![strnclk's Stats](https://github-readme-stats.vercel.app/api?username=strnclk&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+](url)![strnclk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=strnclk&theme=onedark&hide_border=true)
 ![strnclk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strnclk&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
 

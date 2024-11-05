@@ -36,32 +36,6 @@
 
 </div>
 
-
-<div align="center">
-
-[![strnclk's Stats](https://github-readme-stats.vercel.app/api?username=strnclk&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-](url)![strnclk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=strnclk&theme=onedark&hide_border=true)
-![strnclk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strnclk&theme=onedark&show_icons=true&hide_border=true&layout=compact)
-
-
-</div>
-
-<div align="center">
-
-[![Sitran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=strnclk&bg_color=272b33&color=f2ca80&line=fa787e&point=8fb876&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
 <!-- <div>
 
  
